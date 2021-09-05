@@ -2,8 +2,8 @@
 
 ## Mascot
 
-![Fiedka octopus](fiedka.svg)
+![Fiedka octopus](fiedka.png)
 
 ## Flash Chip
 
-![Fiedka flash](flash.svg)
+![Fiedka flash](flash.png)

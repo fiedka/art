@@ -2,16 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="104.346mm"
+   height="104.34533mm"
+   viewBox="0 0 104.346 104.34533"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
    sodipodi:docname="fiedka.svg"
-   inkscape:export-filename="/home/dan/Projects/Fiedka/art/fiedka_rev.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
+   inkscape:export-filename="/home/dan/Projects/Fiedka/art/fiedka.png"
+   inkscape:export-xdpi="124.63"
+   inkscape:export-ydpi="124.63"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.0244809"
-     inkscape:cx="149.83198"
-     inkscape:cy="510.99049"
+     inkscape:zoom="0.51224045"
+     inkscape:cx="-0.97610409"
+     inkscape:cy="225.48005"
      inkscape:window-width="1362"
      inkscape:window-height="708"
      inkscape:window-x="0"
@@ -38,10 +38,16 @@
      inkscape:current-layer="layer2"
      inkscape:lockguides="true"
      inkscape:snap-text-baseline="true"
-     inkscape:snap-nodes="false">
+     inkscape:snap-nodes="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <inkscape:grid
        type="xygrid"
-       id="grid1580" />
+       id="grid1580"
+       originx="-26.984914"
+       originy="-75.52384" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -99,9 +105,9 @@
     </linearGradient>
     <rect
        x="272.02625"
-       y="536.25528"
+       y="536.25531"
        width="119.67674"
-       height="35.014672"
+       height="35.014671"
        id="rect21935" />
     <linearGradient
        id="linearGradient5255"
@@ -122,15 +128,15 @@
     <marker
        style="overflow:visible"
        id="Arrow1Lstart"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Lstart"
        inkscape:isstock="true">
       <path
-         transform="scale(0.8) translate(12.5,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path4781" />
     </marker>
     <rect
@@ -152,7 +158,7 @@
        inkscape:collect="always"
        xlink:href="#linearGradient4631"
        id="linearGradient4633"
-       x1="57.27134"
+       x1="57.271339"
        y1="130.79987"
        x2="79.280403"
        y2="130.79987"
@@ -181,9 +187,9 @@
        id="linearGradient1863"
        gradientUnits="userSpaceOnUse"
        x1="48.460571"
-       y1="139.96444"
-       x2="71.02563"
-       y2="139.96444"
+       y1="139.96445"
+       x2="71.025627"
+       y2="139.96445"
        gradientTransform="matrix(-1,0,0,1,155.10698,-3.3604536)" />
     <linearGradient
        inkscape:collect="always"
@@ -199,7 +205,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="bg"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-26.984913,-75.523838)">
     <ellipse
        style="display:inline;fill:#122d12;fill-opacity:1;stroke:#f1ed4a;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="path19326"
@@ -211,7 +218,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="chip">
+     inkscape:label="chip"
+     transform="translate(-26.984913,-75.523838)">
     <g
        id="g985"
        transform="matrix(0.74314483,0.4728259,-0.66913061,0.52512636,121.21804,39.803833)">
@@ -291,7 +299,7 @@
          style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect21935);display:inline;fill:#f1ed4a;fill-opacity:1;stroke:none"><tspan
            x="272.02539"
            y="552.77151"
-           id="tspan37340">25Е128ДКА</tspan></text>
+           id="tspan1574">25Е128ДКА</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0,-0.26458333,0.26458333,0,-75.080016,225.49919)"
@@ -299,14 +307,15 @@
          style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect21935-6);display:inline;fill:#f1ed4a;fill-opacity:1;stroke:none"><tspan
            x="272.02539"
            y="555.13083"
-           id="tspan37342">Ф</tspan></text>
+           id="tspan1576">Ф</tspan></text>
     </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="tentacles"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-26.984913,-75.523838)">
     <path
        id="path4220-3-6-2-3"
        style="color:#000000;display:inline;fill:#f1ed4a;stroke:url(#linearGradient4579);stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.5;-inkscape-stroke:none;paint-order:stroke markers fill"
@@ -342,7 +351,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="head"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-26.984913,-75.523838)">
     <g
        id="g1465"
        transform="matrix(0.84394822,0,0,1,11.841157,0)">
@@ -371,7 +381,8 @@
      inkscape:label="face"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-26.984913,-75.523838)">
     <ellipse
        style="fill:#050505;fill-opacity:1;stroke:#f1ed4a;stroke-width:0.38309;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.5;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        id="path14609"

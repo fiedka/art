@@ -27,15 +27,15 @@
      inkscape:pagecheckerboard="1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.4488348"
-     inkscape:cx="183.59581"
-     inkscape:cy="203.26679"
+     inkscape:zoom="2.8976696"
+     inkscape:cx="170.30927"
+     inkscape:cy="118.54354"
      inkscape:window-width="1362"
      inkscape:window-height="708"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer6"
      inkscape:lockguides="true"
      inkscape:snap-text-baseline="true"
      inkscape:snap-nodes="false"
@@ -319,7 +319,7 @@
          style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect21935);display:inline;fill:#f1ed4a;fill-opacity:1;stroke:none"><tspan
            x="272.02539"
            y="552.77151"
-           id="tspan11092">25Е128ДКА</tspan></text>
+           id="tspan11252">25Е128ДКА</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0,-0.26458333,0.26458333,0,-75.080016,225.49919)"
@@ -327,7 +327,7 @@
          style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect21935-6);display:inline;fill:#f1ed4a;fill-opacity:1;stroke:none"><tspan
            x="272.02539"
            y="555.13083"
-           id="tspan11094">Ф</tspan></text>
+           id="tspan11254">Ф</tspan></text>
     </g>
   </g>
   <g
@@ -380,7 +380,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="res">
+     inkscape:label="parts">
     <g
        id="g3155"
        transform="matrix(1.1001779,-0.31705275,0.34477486,1.0117166,-23.397849,41.190071)">
@@ -457,12 +457,12 @@
          sodipodi:arc-type="slice"
          d="m 99.372751,103.69662 a 20.076952,20.076952 0 0 1 -10.038919,17.3874 20.076952,20.076952 0 0 1 -20.077396,-7.6e-4 20.076952,20.076952 0 0 1 -10.037589,-17.38818 l 20.076952,0.002 z" />
       <ellipse
-         style="display:inline;fill:#f1ed4a;fill-opacity:1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers stroke fill"
-         id="path989"
-         cx="79.363754"
-         cy="100.68434"
-         rx="20.50975"
-         ry="19.344528" />
+         style="fill:#f1ed4a;fill-opacity:1;stroke:#f1ed4a;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.5;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="path289"
+         ry="20.344528"
+         rx="20.40975"
+         cy="102.68434"
+         cx="79.363754" />
     </g>
   </g>
   <g
